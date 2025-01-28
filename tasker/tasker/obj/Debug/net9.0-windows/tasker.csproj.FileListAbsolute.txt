@@ -18,3 +18,10 @@ D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\refint\tas
 D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\tasker.pdb
 D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\tasker.genruntimeconfig.cache
 D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\ref\tasker.dll
+D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\tasker.sourcelink.json
+D:\development\projects\tasker\tasker\tasker\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+D:\development\projects\tasker\tasker\tasker\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+D:\development\projects\tasker\tasker\tasker\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\tasker.csproj.AssemblyReference.cache
+D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\tasker.csproj.Up2Date
+D:\development\projects\tasker\tasker\tasker\obj\Debug\net9.0-windows\App.baml

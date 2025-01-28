@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -29,18 +33,30 @@
               "ToolTip": "D:\\development\\projects\\tasker\\tasker\\tasker\\MainWindow.xaml",
               "RelativeToolTip": "tasker\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T12:53:23.408Z",
+              "WhenOpened": "2025-01-28T15:46:26.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\development\\projects\\tasker\\tasker\\tasker\\App.xaml",
+              "RelativeDocumentMoniker": "tasker\\App.xaml",
+              "ToolTip": "D:\\development\\projects\\tasker\\tasker\\tasker\\App.xaml",
+              "RelativeToolTip": "tasker\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T15:39:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\development\\projects\\tasker\\tasker\\tasker\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "tasker\\MainWindow.xaml.cs",
               "ToolTip": "D:\\development\\projects\\tasker\\tasker\\tasker\\MainWindow.xaml.cs",
               "RelativeToolTip": "tasker\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:53:23.108Z",
               "EditorCaption": ""

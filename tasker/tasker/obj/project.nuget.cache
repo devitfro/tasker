@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VAMSniRzthM=",
+  "dgSpecHash": "ayGdi2/q3D0=",
   "success": true,
   "projectFilePath": "D:\\development\\projects\\tasker\\tasker\\tasker\\tasker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }

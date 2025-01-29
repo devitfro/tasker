@@ -12,6 +12,7 @@ class EmployeeDataManager
         _filePath = filePath;
     }
 
+    // load employees
     public List<Employee> LoadEmployees()
     {
         if (!File.Exists(_filePath))
@@ -23,11 +24,11 @@ class EmployeeDataManager
         return JsonSerializer.Deserialize<List<Employee>>(json);
     }
 
-    //// Метод для сохранения сотрудников
-    //public void SaveEmployees(List<Employee> employees)
-    //{
-    //    string json = JsonSerializer.Serialize(employees, new JsonSerializerOptions { WriteIndented = true });
-    //    File.WriteAllText(_filePath, json);
-    //}
+    // save employees
+    public void SaveEmployees(List<Employee> employees)
+    {
+        string json = JsonSerializer.Serialize(employees, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(_filePath, json);
+    }
 }
 

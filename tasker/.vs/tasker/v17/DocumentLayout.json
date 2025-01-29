@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\development\\projects\\tasker\\tasker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\taskerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\taskerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|solutionrelative:tasker\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD4BD878-1F79-457D-B68F-755DB349C125}|tasker\\tasker.csproj|d:\\development\\projects\\tasker\\tasker\\tasker\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "tasker\\employees.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T12:35:10.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T12:35:10.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "D:\\development\\projects\\tasker\\tasker\\tasker\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "tasker\\EmployeeViewModel.cs",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "tasker\\EmployeeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:34:53.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T12:34:53.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskerViewModel.cs",
               "DocumentMoniker": "D:\\development\\projects\\tasker\\tasker\\tasker\\TaskerViewModel.cs",
               "RelativeDocumentMoniker": "tasker\\TaskerViewModel.cs",
@@ -81,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeeDataManager.cs",
               "DocumentMoniker": "D:\\development\\projects\\tasker\\tasker\\tasker\\EmployeeDataManager.cs",
               "RelativeDocumentMoniker": "tasker\\EmployeeDataManager.cs",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "tasker\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T21:09:43.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T21:09:43.912Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "ToolTip": "D:\\development\\projects\\tasker\\tasker\\tasker\\MainWindow.xaml",
               "RelativeToolTip": "tasker\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T15:46:26.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:46:26.582Z"
             },
             {
               "$type": "Document",

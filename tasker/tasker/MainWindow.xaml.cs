@@ -8,6 +8,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
+using System.Text.Json;
 
 namespace tasker
 {
@@ -16,9 +18,24 @@ namespace tasker
     /// </summary>
     public partial class MainWindow : Window
     {
+     
+
         public MainWindow()
         {
             InitializeComponent();
+
+            string filePath = "employees.json";
+            EmployeeDataManager dataManager = new EmployeeDataManager(filePath);
+
+            List<Employee> employees = dataManager.LoadEmployees();
+
+          
+
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            
         }
     }
 }

@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Name": "John пкккпккDoe",
+    "Position": "Developer",
+    "Avatar": "D:\\development\\projects\\tasker\\tasker\\tasker\\img\\bob.jpg",
+    "TaskNumber": null,
+    "Deadline": "2025-02-01T00:00:00"
+  },
+  {
+    "Name": "Jane Smith",
+    "Position": "Designer",
+    "Avatar": "img/kihun.jpg",
+    "TaskNumber": 123,
+    "Deadline": "2025-01-30T00:00:00"
+  }
+]
